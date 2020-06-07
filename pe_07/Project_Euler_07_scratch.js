@@ -68,18 +68,15 @@
 
 
 
-//
+
 
 
 //--this works well above
 //--this is the one I'm working on below
 
-//The prime factors of 13195 are 5, 7, 13 and 29.
-//What is the largest prime factor of the number 600851475143 ?
-
 const primes_almost = [2, 3];
 const primes_true = [];
-myLimit = 13195;
+myLimit = 40;
 
 for(let i = 5; i <= myLimit; i+=2){
 
